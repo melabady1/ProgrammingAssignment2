@@ -1,6 +1,7 @@
 ## Cahing the the inverse of a matrix,
 ## Rather than calculating the same inverted matrix 
 ## everytime for the same object
+library("Matrix")
 
 
 ## Takes a matrix and creates a list of four functions:
